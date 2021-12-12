@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">@color/cardview_dark_background</color>
+    <color name="colorAccent">#2BCEFF</color>
+
+    <color name="warn">#FF9800</color>
+    <color name="ok">#8BC34A</color>
+    <color name="alert">#F44336</color>
+
+</resources>
