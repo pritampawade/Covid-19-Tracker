@@ -8,5 +8,5 @@ public class API_Utils {
     public static String INDIA_API = "https://api.covid19india.org/";
     public static String INDIA_STATE_DISTRICT = INDIA_API+"state_district_wise.json";
     public static String LOCATIONS = GLOBAL_BASE_URL+"locations";
-    public static String youtube = "AIzaSyD1j3S3mAc-Kx6R3FySxnTb4YnDZ2jHVec";
+    public static String youtube = "<Your Key Here>";
 }
